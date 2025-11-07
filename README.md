@@ -6,7 +6,7 @@ This repository is the official implementation of "CPU-READY DEEP LEARNING APPRO
 SEGMENTATION ACROSS MULTI-COHORT H&E AND IHC-STAINED WHOLE SLIDE IMAGES".
 
 We have developed a deep learning-based CNN model segmenting tissue regions in whole slide of a sample from its H&E stained, and IHC stained digital histopathology slides from different origins. the used CNN model is light-weighted with 19.8 Mb FLOPs and is proper for low cost implimantations and it
-takes approximately 22 seconds to segment out a digital pathology slide.
+takes approximately 22 to 56 seconds depending on WSI size to segment out a digital pathology slide.
 
 We have successfully tested our CNN models on seven public and private different cohorts in The Cancer Genome Atlas (TCGA), HER2 grading challenge, HEROHE challenge, CAMELYON 17 challenge, PANDA challenge, a local Singapore cohort, and a local Turkey cohort from Bahcesehir Medical School. For all cohorts, we use the same model architecture. 
 
