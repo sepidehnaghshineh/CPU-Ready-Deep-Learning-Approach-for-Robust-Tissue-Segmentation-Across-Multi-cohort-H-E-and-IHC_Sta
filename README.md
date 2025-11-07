@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14294426.svg)](https://doi.org/10.5281/zenodo.14294426)
 
 
-This repository is the official implementation of "CPU-READY DEEP LEARNING APPROACH FOR ROBUST TISSUE Region 
+This repository is the official implementation of "CPU-READY DEEP LEARNING APPROACH FOR ROBUST TISSUE REGION
 SEGMENTATION ACROSS MULTI-COHORT H&E AND IHC-STAINED WHOLE SLIDE IMAGES".
 
 We have developed a deep learning-based CNN model segmenting tissue regions in whole slide of a sample from its H&E stained, and IHC stained digital histopathology slides from different origins. the used CNN model is light-weighted with 19.8 Mb FLOPs and is proper for low cost implimantations and it
